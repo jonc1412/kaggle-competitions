@@ -1,7 +1,1 @@
-store_sales/holidays_events.csv
-store_sales/oil.csv
-store_sales/sample_submission.csv
-store_sales/stores.csv
-store_sales/test.csv
-store_sales/train.csv
-store_sales/transactions.csv
+*.csv
